@@ -4,7 +4,7 @@ In this lab, you will work with a neural-network-based recommender system.
 You can either work in pairs or alone. If you choose to work in pairs, one of the students in each pair should send me an email with subject  Reco-ENSAI-TP2-Pairs, cc-ing their pair-mate, stating in the body of the email the first and last names of students in the pair.
 
 
-The repository contains a notebook called NN_based_recommender_system.ipynb. You will need to clone the repository. Copy the notebook into a new file called: 
+The repository contains a notebook called `NN_based_recommender_system.ipynb`. You will need to clone the repository. Copy the notebook into a new file called: 
 ```[lastname1]-[lastname2]-NN_based_recommender_system.ipynb``` 
 where ```[lastname1]``` and ```[lastname2]``` represent the last names of the two members of your lab pair. If you worked alone, please use the following format for the file name. 
 ```[firstname]-[lastname]-NN_based_recommender_system.ipynb``` 
