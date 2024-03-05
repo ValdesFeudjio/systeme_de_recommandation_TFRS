@@ -10,7 +10,10 @@ where ```[lastname1]``` and ```[lastname2]``` represent the last names of the tw
 ```[firstname]-[lastname]-NN_based_recommender_system.ipynb```.
 
 For example, a group with Mr. John Doe and Jane Appleseed will name their file as follows:
-```Appleseed-Doe-NN_based_recommender_system.ipynb``` or ```Doe-Appleseed-NN_based_recommender_system.ipynb```. 
+
+```Appleseed-Doe-NN_based_recommender_system.ipynb``` or 
+
+```Doe-Appleseed-NN_based_recommender_system.ipynb```. 
 
 If John Doe works alone, he will instead use the following filename: 
 ```John-Doe-NN_based_recommender_system.ipynb```. 
