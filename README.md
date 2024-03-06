@@ -33,3 +33,5 @@ or
 ```[firstname]-[lastname]-Reco-ENSAI-TP2.zip```
 
 depending on whether you worked in pairs or alone. 
+
+Send the zip file to `davide.frey@inria.fr` in an email with subject `Reco-ENSAI-TP2`. 
