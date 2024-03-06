@@ -34,4 +34,4 @@ or
 
 depending on whether you worked in pairs or alone. 
 
-Send the zip file to `davide.frey@inria.fr` in an email with subject `Reco-ENSAI-TP2`. 
+Send the zip file to `davide.frey@inria.fr` in an email with subject `Reco-ENSAI-TP2` no later than 23.59 on Friday March 22, 2024. 
