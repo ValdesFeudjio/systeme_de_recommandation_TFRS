@@ -34,8 +34,8 @@ or
 
 depending on whether you worked in pairs or alone. 
 
-*For ID Students* 
+**For ID Students**  
 Send the zip file to `davide.frey@inria.fr` in an email with subject `Reco-ENSAI-TP2` no later than 23.59 on Friday March 22, 2024. 
 
-*For MKT Students*
+**For MKT Students**  
 Send the zip file to `davide.frey@inria.fr` in an email with subject `Reco-ENSAI-MKT-TP2` no later than 23.59 on Friday March 29, 2024. 
