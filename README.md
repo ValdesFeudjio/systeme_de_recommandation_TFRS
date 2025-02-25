@@ -24,18 +24,30 @@ You should then edit the notebook wherever indicated by the TODO keyword. There 
 
 You can either run the notebook on your own machine or on google colab, using the link provided at the top of the notebook. Note that if you use colab, you will have to save the notebook somehow in order to submit it to me. 
 
+
+**For ID Students**  
 You should submit a single zip containing the notebook and the additional file (if any). The zip file should be named: 
 
-```[lastname1]-[lastname2]-Reco-ENSAI-TP2.zip```
+```[lastname1]-[lastname2]-Reco-ENSAI-2025-ID-TP2.zip```
 
 or 
 
-```[firstname]-[lastname]-Reco-ENSAI-TP2.zip```
+```[firstname]-[lastname]-Reco-ENSAI-2025-ID-TP2.zip```
 
 depending on whether you worked in pairs or alone. 
 
-**For ID Students**  
-Send the zip file to `davide.frey@inria.fr` in an email with subject `Reco-ENSAI-ID-TP2` no later than 23.59 on Friday March 22, 2024. 
+Send the zip file to `davide.frey@inria.fr` in an email with subject `Reco-ENSAI-ID-2025-TP2` no later than 23.59 on Friday March 14, 2025. 
 
-**For MKT Students**  
-Send the zip file to `davide.frey@inria.fr` in an email with subject `Reco-ENSAI-MKT-TP2` no later than 23.59 on Friday March 29, 2024. 
+
+**For MKT-MS Students**  
+You should submit a single zip containing the notebook and the additional file (if any). The zip file should be named: 
+
+```[lastname1]-[lastname2]-Reco-ENSAI-2025-MKT-MS-TP2.zip```
+
+or 
+
+```[firstname]-[lastname]-Reco-ENSAI-2025-MKT-MS-TP2.zip```
+
+depending on whether you worked in pairs or alone. 
+
+Send the zip file to `davide.frey@inria.fr` in an email with subject `Reco-ENSAI-MKT-2025-MS-TP2` no later than 23.59 on Friday March 21, 2025. 
